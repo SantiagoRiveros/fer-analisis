@@ -1,0 +1,40 @@
+Operadores matematicos:
+
++ suma
+- resta
+* multiplicacion
+/ division
+// division entera
+% modulo <- El resto de la division entera 21 % 5 -> Ese 1 que sobra es el modulo
+** potencia
+
+Operadores de comparacion:
+
+== igual
+!= desigual
+> mayor
+< menor
+>= mayor que
+<= menor que
+
+Operadores logicos:
+Cuando uno analiza una expresion la expresion devuelve un booleano, True/False. Ej: 3 > 1 -> True
+Sirven para analizar mas de una expresion
+
+AND
+True and True -> True
+True and False -> False
+False and True -> False
+False and False -> False
+
+OR
+True or True -> True
+True or False -> True
+False or True -> True
+False or False -> False
+
+NOT
+not True -> False
+not False -> True
+
+&& || ! 
