@@ -1,0 +1,22 @@
+Crear un gráfico de barras mostrando:
+
+cantidad de hombres
+cantidad de mujeres
+
+Crear gráfico de barras
+
+Mostrar:
+
+sobrevivieron
+no sobrevivieron
+
+Mostrar cantidad de pasajeros por clase
+primera
+segunda
+tercera
+
+Crear gráfico de torta
+
+Mostrar:
+
+porcentaje hombres/mujeres

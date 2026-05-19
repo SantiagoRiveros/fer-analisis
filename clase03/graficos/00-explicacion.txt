@@ -1,0 +1,48 @@
+1- Bar Chart
+Compara cantidad entre categorias
+
+2- Pie Chart
+Sirve para mostrar porcentajes, tambien conocido como grafico de torta.
+
+En general, mas de 5 categorias, queda mal
+
+3- Histograma
+Es el mas importante para analisis numerico.
+
+¿Para que sirve? Ver distribucion de numeros
+
+Te acomoda los numeros en "bins" que son frecuencias de muestre, y es configurable, es decir
+podes configurar para que se vean 100 barras, o 5
+
+4- Line Chart
+Muestra evolucion
+
+5- ScatterPlot
+Relaciona 2 variables numericas
+
+6- Boxplot
+MUY importante en analisis real
+
+¿Para que sirve?
+
+ver:
+    -mediana
+    -distribucion
+    -outliers
+
+línea central → mediana
+caja → rango principal -> Entre Q1 y Q3 -> Osea, donde estan la mayoria de datos
+puntos → outliers
+"bigotes" -> Hasta donde llegan los valores normales, todo lo que esta por fuera de esto, se considera outlier
+
+7- Area Chart
+Similar al line chart pero rellenado
+
+8- BARH 
+Igual que el de las barras verticales, pero horizontales
+
+9- KDE Density plot 
+Muestra densidad/distribucion
+
+10- Subplots
+muestra varios graficos a la vez
