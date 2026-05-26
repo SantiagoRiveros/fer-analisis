@@ -1,0 +1,33 @@
+productos = pd.DataFrame({
+    "ProductoID": [1, 2, 3],
+    "Producto": ["Mouse", "Teclado", "Monitor"]
+})
+
+ventas = pd.DataFrame({
+    "ProductoID": [1, 2, 1],
+    "Cantidad": [2, 1, 4]
+})
+
+Unir datasets
+Mostrar: Producto y Cantidad
+
+compras = pd.DataFrame({
+    "ClienteID": [1, 2, 5],
+    "Total": [100, 250, 300]
+})
+
+Agregar clientes que faltan
+
+----------------------------
+
+curso1 = pd.DataFrame({
+    "Alumno": ["Juan", "Ana"]
+})
+
+curso2 = pd.DataFrame({
+    "Alumno": ["Pedro", "Lucia"]
+})
+
+Concatenar ambos
+
+Agregar dataset de Notas y concatenarlo
