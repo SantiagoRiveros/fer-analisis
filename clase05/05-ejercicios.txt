@@ -1,0 +1,51 @@
+Ejercicio 1
+
+Convertir columna:
+
+Fecha
+
+a datetime.
+
+Ejercicio 2
+
+Crear columnas:
+
+Año
+Mes
+Día
+Ejercicio 3
+
+Filtrar:
+
+ventas de enero
+Nivel 2
+Ejercicio 4
+
+Detectar duplicados.
+
+Ejercicio 5
+
+Eliminar duplicados.
+
+Ejercicio 6
+
+Convertir nombres:
+
+mayúsculas
+minúsculas
+Nivel 3
+Ejercicio 7
+
+Eliminar:
+
+espacios extra
+Ejercicio 8
+
+Buscar:
+
+nombres con “Juan”
+Ejercicio 9
+
+Detectar:
+
+emails inválidos
