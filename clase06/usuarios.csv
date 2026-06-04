@@ -1,0 +1,13 @@
+ID,Fecha,Cliente,Email,Producto,Total
+1,2025-01-10,Juan Perez,juan@gmail.com,Mouse,120
+2,2025-01-15,Ana Lopez,ana@gmail.com,Teclado,250
+3,2025-02-01,Pedro Gomez,pedro@gmail.com,Monitor,500
+5,2025-03-05,Lucia Martinez,lucia@gmail.com,Notebook,1500
+6,2025-03-18,Carlos Diaz,carlos@gmail.com,Auriculares,300
+8,2025-04-02,Ana Lopez,ana@gmail.com,Teclado,250
+9,2025-04-15,Mario Ruiz,mario@gmail.com,Monitor,700
+10,2025-05-01,Sofia Torres,sofia@gmail.com,Tablet,900
+13,2025-06-25,Carla Vega,carla@gmail.com,Monitor,650
+14,2025-07-03,Pedro Gomez,pedro@gmail.com,Notebook,1400
+15,2025-07-18,Ana Lopez,ana@gmail.com,Tablet,850
+16,2026-07-18,Elon Musk,elon@gmail.com,Twitter,20000

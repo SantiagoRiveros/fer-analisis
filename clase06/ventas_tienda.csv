@@ -1,0 +1,31 @@
+VentaID,Fecha,Cliente,Producto,Categoria,Cantidad,PrecioUnitario,Total
+1,2025-01-05,Juan Perez,Mouse,Perifericos,2,25,50
+2,2025-01-08,Ana Lopez,Teclado,Perifericos,1,80,80
+3,2025-01-12,Pedro Gomez,Monitor,Monitores,1,300,300
+4,2025-01-15,Lucia Martinez,Notebook,Computadoras,1,1200,1200
+5,2025-01-20,Carlos Diaz,Auriculares,Audio,3,50,150
+6,2025-02-01,Sofia Torres,Tablet,Tablets,2,450,900
+7,2025-02-05,Mario Ruiz,Monitor,Monitores,2,320,640
+8,2025-02-10,Juan Perez,Mouse,Perifericos,5,25,125
+9,2025-02-15,Ana Lopez,Notebook,Computadoras,1,1300,1300
+10,2025-02-20,Pedro Gomez,Auriculares,Audio,2,60,120
+11,2025-03-01,Lucia Martinez,Monitor,Monitores,1,350,350
+12,2025-03-04,Carlos Diaz,Tablet,Tablets,1,500,500
+13,2025-03-08,Sofia Torres,Mouse,Perifericos,10,25,250
+14,2025-03-15,Mario Ruiz,Teclado,Perifericos,2,90,180
+15,2025-03-20,Juan Perez,Notebook,Computadoras,1,1400,1400
+16,2025-04-01,Ana Lopez,Monitor,Monitores,3,330,990
+17,2025-04-05,Pedro Gomez,Mouse,Perifericos,4,25,100
+18,2025-04-12,Lucia Martinez,Tablet,Tablets,2,480,960
+19,2025-04-18,Carlos Diaz,Auriculares,Audio,5,55,275
+20,2025-04-25,Sofia Torres,Notebook,Computadoras,1,1500,1500
+21,2025-05-02,Mario Ruiz,Monitor,Monitores,2,340,680
+22,2025-05-08,Juan Perez,Tablet,Tablets,1,520,520
+23,2025-05-15,Ana Lopez,Auriculares,Audio,4,60,240
+24,2025-05-20,Pedro Gomez,Teclado,Perifericos,3,85,255
+25,2025-05-28,Lucia Martinez,Monitor,Monitores,1,360,360
+26,2025-06-05,Carlos Diaz,Notebook,Computadoras,1,1600,1600
+27,2025-06-10,Sofia Torres,Monitor,Monitores,2,350,700
+28,2025-06-15,Mario Ruiz,Mouse,Perifericos,8,25,200
+29,2025-06-20,Juan Perez,Auriculares,Audio,3,65,195
+30,2025-06-30,Ana Lopez,Servidor Empresarial,Infraestructura,1,8500,8500
